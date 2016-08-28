@@ -24,6 +24,8 @@ extra_turret_config:
 tags:
     - "web"
     - "wordpress"
+    - "meteor"
+    - "nodejs"
 
 # required dependencies to run tests
 dependencies:
